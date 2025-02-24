@@ -7,12 +7,38 @@
 - 学校：清华大学
 - 书院：致理书院  
 - 专业：生物科学
+- 实验室：张二荃lab @NIBS
+- 邮箱：src22@mail.tsinghua.edu.cn 📫
 - ![个人照片描述](images/个人照片.jpg)
 
-## 🌟 项目展示
-1. **[项目1](链接)**：简要描述
-2. **[项目2](链接)**：简要描述
+## 生物信息学课程笔记
+### 2.21第一课 Introduction  
+*“We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.”*
 
-## 📫 联系我
-- 邮箱：your-email@example.com
-- GitHub: [@你的用户名](https://github.com/你的用户名)
+* Four steps of bioinformatics
+  **Question→Information→Analysis→Modeling**
+
+0. Question
+   * R(Robot)N(Nanotech)G(Genetics)
+
+1. Information  
+   *Code of life--**Sequence**   
+    Sequencing technologies--Revolution   
+   * [Human Genome Project] (https://www.genome.gov/human-genome-project)  
+     Craig Venter and Francis Collins  
+   * NGS(Next-Generation Sequencing)  
+   DNA-seq, RNA-seq, Epigenetics, Interaction  
+   Three different level: Persons, Cell, Omics  
+   *Human Genome Project; The Cancer Genome Atlas(TCGA); UK BioBank*
+   * Metagenomics  
+     Enviromental(Hot spring, Ocean...); Organismal(gut,lung...)  
+
+   **We are in a age of explosing data**
+
+2. Analysis
+   * NGS Data Analysis   
+     -Sequencing Method and Bioinformatics Tool     
+      ![Sequencing Method and Bioinformatics Tool] (images/Sequencing Method and Bioinformatics Tool.png)  
+     -Interpreting the Data  
+     Cell Types, Gene Signatures
+ 
